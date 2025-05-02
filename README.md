@@ -1,8 +1,7 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
-## AIM: 
-### To prototype the given part model design in 3D Printer.
+### DATE: 02-05-2025
+## AIM: To prototype the given part model design in 3D Printer.
 
 ## REQUIREMENTS:
 ### ●	3D Printer machine.
@@ -51,5 +50,4 @@
 ### Name: Yeswanth Peddepi
 ### Register Number: 212224040234
 
-## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+## RESULT: Thus a prototype of the given part model is developed using 3D Printer.
