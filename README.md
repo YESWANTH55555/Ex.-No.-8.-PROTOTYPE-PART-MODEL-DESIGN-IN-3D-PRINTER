@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![DUSTER SCREENSHOT (1)](https://github.com/user-attachments/assets/7364e3d4-80ab-43c9-8906-2db7d9b07799)
 
-### Name:
-### Register Number:
+### Name: Yeswanth Peddepi
+### Register Number: 212224040234
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
